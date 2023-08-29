@@ -1,6 +1,1 @@
-variable "filename" {
-    
-}
-variable "content" {
 
-}
